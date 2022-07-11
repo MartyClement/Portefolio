@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.28.0",
+  "description": "My portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "format": "prettier --write .",
+    "test": "npm run cypress:run",
+    "start": "index.html",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "cypress": "^8.6.0",
+    "cypress-cucumber-preprocessor": "^4.3.0",
+    "eslint": "^7.32.0",
+    "husky": "^7.0.4"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
