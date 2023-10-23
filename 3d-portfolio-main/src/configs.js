@@ -40,10 +40,9 @@ const configs = {
       position: [-PAGE_DEPH_MARGIN, 0, 0],
       title: 'Information personnelle',
       infos : [
-        "Je suis actuellement développeur web dans une agence Toulousaine qui s'appelle PURE."
+        "Je suis actuellement en étude de marketing digital."
       ],
-      imageList: EXPERIENCE,
-      footer: 'Vous pouvez cliquer sur l’icônes pour en savoir plus.',
+      footer: 'Tout ce portefolio est codé à la main par moi.',
     },
     {
       scale: 15,
