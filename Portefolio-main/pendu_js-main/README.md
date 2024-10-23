@@ -10,8 +10,4 @@ Ce projet est une implémentation simple du jeu classique du Pendu en utilisant 
 - CSS
 - JavaScript
 
-## Pour Commencer
-Pour jouer au Jeu du Pendu, cliquez simplement sur le lien suivant : https://Kakoo28.github.io/pendu_js
-___
 
-*Kakoo*
