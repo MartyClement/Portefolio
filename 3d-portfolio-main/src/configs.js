@@ -38,7 +38,7 @@ const configs = {
       displayAt: displayAt('INFORMATION PERSONNELLE'),
       rotation: [0, -Math.PI / 2, 0],
       position: [-PAGE_DEPH_MARGIN, 0, 0],
-      title: 'Information personnelle',
+      title: 'Information personnelle👤',
       infos : [
         "Je suis actuellement en recherche d'une place en marketing digital ou développement web."
       ],
