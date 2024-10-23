@@ -26,7 +26,7 @@ const configs = {
       displayAt: displayAt('A PROPOS'),
       title: 'Qui suis-je ?      ',
       infos: [
-        "* Je suis un jeune développeur, un étudiant, un penseur curieux qui aime apprendre et comprendre le fonctionnement des choses.",
+        "* Je suis un jeune développeur, un penseur curieux qui aime apprendre et comprendre le fonctionnement des choses.",
 
         '* J’ai commencé ma carrière en tant que développeur front-end en 2021 après une reconversion professionnelle issue du commerce de prêt-à-porter. ',
 
@@ -40,7 +40,7 @@ const configs = {
       position: [-PAGE_DEPH_MARGIN, 0, 0],
       title: 'Information personnelle',
       infos : [
-        "Je suis actuellement en étude de marketing digital."
+        "Je suis actuellement en recherche d'une place en marketing digital ou développement web."
       ],
       footer: 'Tout ce portefolio est codé à la main par moi.',
     },
@@ -70,7 +70,7 @@ const configs = {
           {
             url: 'icons/resume.png',
             websiteURL:
-              'https://drive.google.com/file/d/1zRxY6ZD6dVyAHFPUNI2M_gCMmTyJIbb7/view?usp=sharing',
+              '',
           },
         ],
       },
