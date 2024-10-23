@@ -24,9 +24,9 @@ export const EXPERIENCE = {
   },
   items: [
     {
-      url: 'icons/pure.jpeg',
+      url: '',
       websiteURL:
-        'https://agence-pure.com/',
+        '',
     },
   
   ],
